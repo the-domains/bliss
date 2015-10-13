@@ -1,6 +1,6 @@
 name: Bliss
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.53556
 cta:
   domain: null
   bucket: null
@@ -14,8 +14,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#000000'
+    - '#ffffff'
+    - '#b3b3b3'
+    - '#484848'
+    - '#8e8e8e'
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
