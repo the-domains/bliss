@@ -2,6 +2,7 @@ name: Bliss
 favicon: null
 layout_spectrum: 0.53556
 typography_spectrum: 0.47778
+title: Impact Management
 cta:
   domain: null
   bucket: null
